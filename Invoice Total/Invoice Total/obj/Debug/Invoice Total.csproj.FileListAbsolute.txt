@@ -1,0 +1,18 @@
+C:\Users\weix2\Desktop\Invoice Total\Invoice Total\obj\Debug\Invoice Total.csprojResolveAssemblyReference.cache
+C:\Users\weix2\Desktop\Invoice Total\Invoice Total\obj\Debug\Invoice_Total.frmInvoiceTotal.resources
+C:\Users\weix2\Desktop\Invoice Total\Invoice Total\obj\Debug\Invoice Total.csproj.GenerateResource.Cache
+C:\Users\weix2\Desktop\Invoice Total\Invoice Total\obj\Debug\Invoice Total.csproj.CoreCompileInputs.cache
+C:\Users\weix2\Desktop\Invoice Total\Invoice Total\bin\Debug\Invoice Total.exe.config
+C:\Users\weix2\Desktop\Invoice Total\Invoice Total\bin\Debug\Invoice Total.exe
+C:\Users\weix2\Desktop\Invoice Total\Invoice Total\bin\Debug\Invoice Total.pdb
+C:\Users\weix2\Desktop\Invoice Total\Invoice Total\obj\Debug\Invoice Total.exe
+C:\Users\weix2\Desktop\Invoice Total\Invoice Total\obj\Debug\Invoice Total.pdb
+C:\Users\willi2dq\Desktop\Invoice Total\Invoice Total\bin\Debug\Invoice Total.exe.config
+C:\Users\willi2dq\Desktop\Invoice Total\Invoice Total\bin\Debug\Invoice Total.exe
+C:\Users\willi2dq\Desktop\Invoice Total\Invoice Total\bin\Debug\Invoice Total.pdb
+C:\Users\willi2dq\Desktop\Invoice Total\Invoice Total\obj\Debug\Invoice Total.csprojAssemblyReference.cache
+C:\Users\willi2dq\Desktop\Invoice Total\Invoice Total\obj\Debug\Invoice_Total.frmInvoiceTotal.resources
+C:\Users\willi2dq\Desktop\Invoice Total\Invoice Total\obj\Debug\Invoice Total.csproj.GenerateResource.cache
+C:\Users\willi2dq\Desktop\Invoice Total\Invoice Total\obj\Debug\Invoice Total.csproj.CoreCompileInputs.cache
+C:\Users\willi2dq\Desktop\Invoice Total\Invoice Total\obj\Debug\Invoice Total.exe
+C:\Users\willi2dq\Desktop\Invoice Total\Invoice Total\obj\Debug\Invoice Total.pdb
